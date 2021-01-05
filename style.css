@@ -1,0 +1,48 @@
+html {
+	padding: 5%;
+}
+
+.header {
+	padding:;
+}
+
+.catagories {
+	display: inline-flex;
+	color: black;
+}
+
+.bio {
+	padding: ;
+	display: inline-block;
+}
+
+img {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;	
+	width: 50%;
+	padding: 1%;
+	float: left;
+}
+
+/* eliminates the underlining for links when clicked */
+
+a {
+	text-decoration: none;
+}
+
+iframe {
+
+}
+
+p {
+	font-family: 'Raleway';
+	font-weight: bold;
+	color: black;
+	font-size: 100%;
+}
+
+
+
+
+
